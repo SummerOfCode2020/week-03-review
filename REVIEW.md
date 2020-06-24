@@ -2,44 +2,40 @@
 
 ## how do we fork a repo? 
 
-- Fork this repo when the url is shared in slack
+- Fork from URL provided in slack or by searching for the repo creator's profile and looking for the desired repo in their created repo history.
 
 ## how do clone a repo to be available on our local?
 
-- For discussion and then for all to clone
+- You can clone by clicking the clone button or by copying and pasting the address bar's URL and using the git clone command followed by the copied URL.
 
 ## how do we move changes from working folder to staging?
 
-- Type the commands and any extra info you want to share here
+- git add .
 
 ## how do we move changes from staging folder to the local repo?
 
-- Type the commands and any extra info you want to share here
-
-## how do we move changes from staging folder to the local repo?
-
-- Type the commands and any extra info you want to share here
+- git commit -m "Direct informative title"
 
 ## how do we confirm what is in the local repo
 
-- Type the commands and any extra info you want to share here
+- git status
 
 ## how do we confirm what is in the remote repo
 
-- Type the commands and any extra info you want to share here
+- git log
 
 ## how do we confirm the url of our git remotes?
 
-- Type the commands and any extra info you want to share here
+- git remote -v
 
 ## how many and what sections are in an html document
 
-Type your answer here, use git commands to 
+- 2. Head + Body
 
 ## there are two ways to reference css in the header - show examples of two tags that are used for styling
 
-Type your answer here and push it up
+- <style> + <link>
 
 ## 3 - how many ways can you declare a variable
 ## hint - 1 old school way - the new ways
-## provide a few samples
+## provide a few samples: var, let, const
