@@ -10,36 +10,37 @@
 
 ## how do we move changes from working folder to staging?
 
-- Type the commands and any extra info you want to share here
+- git status command to check what files you want to be staged and then "git add ." command for all files.
 
 ## how do we move changes from staging folder to the local repo?
 
-- Type the commands and any extra info you want to share here
+- git commit -m "Whatever you wanna say"
 
 ## how do we move changes from staging folder to the local repo?
 
-- Type the commands and any extra info you want to share here
+- same as above 
 
 ## how do we confirm what is in the local repo
 
-- Type the commands and any extra info you want to share here
+-uhhhhh
 
 ## how do we confirm what is in the remote repo
 
-- Type the commands and any extra info you want to share here
+-  git remote -v command
 
 ## how do we confirm the url of our git remotes?
 
-- Type the commands and any extra info you want to share here
+- git push will confirm your git remotes 
 
 ## how many and what sections are in an html document
 
-Type your answer here, use git commands to 
+2 which are head and body 
 
 ## there are two ways to reference css in the header - show examples of two tags that are used for styling
 
-Type your answer here and push it up
+script?
 
 ## 3 - how many ways can you declare a variable
+3 ways which are var, const, and let
 ## hint - 1 old school way - the new ways
-## provide a few samples
+## provide a few samples 
