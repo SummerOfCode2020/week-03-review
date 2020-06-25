@@ -4,11 +4,13 @@
 
 - Fork this repo when the url is shared in slack
 
+
 - follow link to repo in Slsck
 - on website, fork button, answer where to fork to
 
 
 ## how do clone a repo to be available on our local?
+
 
 - For discussion and then for all to clone
 
@@ -24,11 +26,13 @@ git add .
 
 git commit -m "message"
 
+
 ## how do we move changes from staging folder to the local repo?
 
 - Type the commands and any extra info you want to share here
 
 git commit -m "message"
+
 
 ## how do we confirm what is in the local repo
 
